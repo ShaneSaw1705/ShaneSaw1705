@@ -1,4 +1,7 @@
-Kia Ora! 👋
+# Shane Curtis 👨🏼‍💻
+
+**`Digital Craftsman (Developer / Designer)`**
+
 I'm a passionate self-taught programmer with over 9 years of experience in the coding world. Recently, I completed the Dev Academy Full-stack Developer Bootcamp in July 2024, where I dedicated 800 hours to mastering RestAPIs, databases, authentication, and front-end development.
 
 My journey in programming has been driven by a love for learning and an eagerness to explore new technologies. Dev Academy has further honed my ability to quickly adapt to new tools and frameworks, enhancing my versatility as a developer.
